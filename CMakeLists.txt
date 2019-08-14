@@ -13,7 +13,7 @@ HunterGate(
 
 project(bimg VERSION 1.0.0)
 
-option(BIMG_BUILD_TOOLS "Build bimg tools." ON)
+option(BIMG_BUILD_TOOLS "Build bimg tools." OFF)
 
 ################################################################################
 # 3rdparty libs
